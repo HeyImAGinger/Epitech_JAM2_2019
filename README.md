@@ -1,10 +1,6 @@
 # Epitech_JAM2_2019
 > StreetPainting app.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 The Project was made during an Internal Epitech Jam. The theme was about Street Painting so we made a StreetPainting app with Unity.
 You can choose color, change size of the painting tool and change the tool. You can import stencils and you own walls. When you finish you streetart you can export it in you computer.
 
